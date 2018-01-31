@@ -1,0 +1,61 @@
+/*Selector {
+	Property: Value;
+}*/
+
+* {
+	background-color: black;
+	text-align: center;
+}
+
+hr {
+  max-width: 65px;
+  border-width: 3px;
+  border-color: #F05F44; 
+}
+
+.faded {
+  color: rgba(255, 255, 255, 0.8); 
+}
+
+.photo {
+	margin-top: 50px;
+}
+
+header.startup {
+  background-position: center;
+  background-image: url("indexpic.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+header.startup hr {
+  margin-top: 20px;
+  margin-bottom: 30px; 
+}
+
+header.startup h1 {
+  font-size: 2rem; 
+}
+
+.btn {
+  font-weight: 900;
+  text-transform: uppercase;
+  border-radius: 300px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn-xl {
+  padding: 1rem 2rem; 
+}
+
+.btn-primary {
+  background-color: #45B60F;
+  border-color: #45B60F;
+   }
+
+.btn-primary:hover {
+  background-color: #45B60F;
+  border-color: #45B60F;
+  border-width: 5px;
+  cursor: pointer;
+}

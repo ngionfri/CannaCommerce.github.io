@@ -1,0 +1,21 @@
+/*Selector {
+	Property: Value;
+}*/
+
+* {
+	background-color: black;
+	text-align: center;
+}
+
+.Prototype {
+	color: white;
+	font-family: 'Righteous', cursive;
+}
+
+.nav-item {
+
+}
+
+.nav-link {
+background-color: white;
+}
